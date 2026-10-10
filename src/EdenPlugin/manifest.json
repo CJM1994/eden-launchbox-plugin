@@ -1,0 +1,20 @@
+{
+  "SchemaVersion": 1,
+  "PluginId": "6f1d3c52-8e0a-4b7e-9a51-2c4e7d9b3e10",
+  "UserId": 0,
+  "Name": "Eden LaunchBox Integration",
+  "Developer": "Connor Mullin",
+  "Brief": "Save management for the Eden Switch emulator",
+  "Description": "Adds save management for Eden (and other yuzu-family Switch emulators): detects each game's save folder by reading the title ID from the game file, with backup, restore and delete support.",
+  "Requirements": null,
+  "Credits": "Many thanks to the developers of Eden!",
+  "OperatingSystemFamily": "Windows",
+  "InstalledVersion": "1.0.1",
+  "SourceCodeUrl": "",
+  "SupportUrl": "",
+  "HomePageUrl": "",
+  "TipJarUrl": "",
+  "SourceKind": null,
+  "Tags": [],
+  "RequiredApplicationVersion": "14.0.0"
+}
